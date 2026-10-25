@@ -4,6 +4,6 @@
     "website_url": "https://github.com/earthlingOnFire/Ride-The-Lightning-Fix",
     "description": "Fixes a bug that broke the +RIDE THE LIGHTNING style bonus.",
     "dependencies": [
-        "BepInEx-BepInExPack-5.4.2100",
+        "BepInEx-BepInExPack-5.4.2100"
     ]
 }

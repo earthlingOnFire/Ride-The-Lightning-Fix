@@ -1,0 +1,1 @@
+Just a simple fix to the +RIDE THE LIGHTNING style bonus, which has been broken since Fraud released.
